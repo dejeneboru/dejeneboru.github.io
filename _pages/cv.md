@@ -71,8 +71,8 @@ Publications
 
 Teaching
 =====
-* Distributed Systems 
-* Data Communications I 
+* Distributed Systems and Applications 
+* Data Communications 
 * Computer Systems Engineering
 * Software Development Methodology
 * Programming in C/C++
