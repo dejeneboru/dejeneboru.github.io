@@ -17,34 +17,45 @@ Education
 
 Work experience
 ======
+* March 2015 - Current: Ph.D. Researcher
+  * Karlstad University, Karlstad, Sweden
+  * Duties: Carry out scientific research in the area of computer networking. Design, develop, analyze, and implement low-latency solutions for next generation network (5G). Write scientific articles and publish them in reputable international conferences. Write project reports, attend conferences, present and demonstrate research results, and serve as a teaching assistant for courses offered in Computer Science department.  
+
 * Jan 2013-Feb 2015: Graduate Researcher
   * CREATE-NET Research Center, Trento, Italy
-  * Duties included: Research in wireless indoor localization solution, Energy efficient data replication in cloud datacenters, Wireless Networks energy metering using Software Defined Networking.   
-  
+  * Duties included: Research in wireless indoor localization solution, Energy efficient data replication in cloud datacenters, Wireless Networks energy metering using Software Defined Networking.
+   
 * March 2012-June 2012: Internship
   * SnT Research Center, University of Luxembourg
-  * Duties included: Develop energy efficient data replication techniques, algorithms, and models for energy
+  * Duties: Develop energy efficient data replication techniques, algorithms, and models for energy
 consumption of cloud computing data center IT infrastructure
-  
 
 * Jul 2011-Sep 2011: Internship
   * CREATE-NET Research Center, Trento, Italy
-  * Duties included: Involved in measurement, analysis and modeling of energy consumption of wireless access points. 
+  * Duties: Perform measurments, analyze data, develop model of energy consumption of wireless access points. 
   
 * Nov 2008-Aug 2010: Assistant Graduate II
-  * Dire Dawa University, Ethiopia
-  * Duties included: Teaching (Computer Networking, C/C++ Programming, Introduction to Electronics), student mentor,  
-  
+  * Dire Dawa University, Dire Dawa, Ethiopia
+  * Duties: Teaching (Computer Networking, C/C++ Programming, Introduction to Electronics) and mentor students.
 
+* Aug 2008-Nov 2008: Fixed Line Engineer
+  * ZTE Corporation Ethiopia Branch, Addis Ababa, Ethiopia
+  * Duties: Teaching (Computer Networking, C/C++ Programming, Introduction to Electronics) and mentor students.
   
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C/C++, Python, Java, Matlab, Linux Shell Scripting, Linux Kernel Programming 
+* Operating Systems: Linux, Windows, Mac OS
+* Technology: 2G/3G/4G/5G, TCP/IP, Cloud Computing, Virtualization, Internet 
+* Networking Tools: Ns2, Ns3, Mininet, OpenFlow, Floodlight, OMNeT++, Core Emulator, CCNA
+* Languages: Afan Oromo (Native), Amharic (Excellent), English(Excellent), Swedish (Intermediate), Italian(Intermediate)
+
+Awards
+======
+* Best Paper Award: Network of the Future, 2018
+* University of Trento Merit Award (2013)-givent to outstanding students at the end of their study. 
+* Turkish International Cooperation scholarship award for outstanding students of Addis Ababa University
 
 Publications
 ======
@@ -52,7 +63,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
   
 Teaching
 ======
