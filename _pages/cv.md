@@ -41,8 +41,7 @@ consumption of cloud computing data center IT infrastructure
 * Aug 2008-Nov 2008: Fixed Line Engineer
   * ZTE Corporation Ethiopia Branch, Addis Ababa, Ethiopia
   * Duties: Teaching (Computer Networking, C/C++ Programming, Introduction to Electronics) and mentor students.
-  
- 
+
 Skills
 ======
 * Programming Languages: C/C++, Python, Java, Matlab, Linux Shell Scripting, Linux Kernel Programming 
