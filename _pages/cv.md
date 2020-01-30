@@ -10,16 +10,14 @@ redirect_from:
 {% include base_path %}
 
 Personal Data
-
-"***-----------------------------------------------------------------------------------------------***"
-
+=============
 * **Name:** Dejene Boru Oljira
 * **Address:** Fagottgatan 19, 65631 Karlstad, Sweden
 * **Mobile:** +46-769-555-806
 * **Email:** dejene.boru@gmail.com, oljideje@kau.se
 
 Education
------------------------------------------------------------------------------------------------
+===========
 * B.Sc in Electrical and Computer Engineering, Addis Ababa University, 2008
 * M.Sc in Telecommunications Engineering, University of Trento, Italy, 2013
 * Ph.D. in Computer Science, Karlstad University, Sweden 2020 (expected)
