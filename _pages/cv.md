@@ -10,11 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Personal Data
------------------------------------------------------------------------------------------------
-Name: Dejene Boru Oljira
-Address: Fagottgatan 19, LGH 1002, 65631 Karlstad, Sweden
-Mobile: +46-769-555-806
-Email: dejene.boru@gmail.com, oljideje@kau.se
+
+"***-----------------------------------------------------------------------------------------------***"
+
+* **Name:** Dejene Boru Oljira
+* **Address:** Fagottgatan 19, 65631 Karlstad, Sweden
+* **Mobile:** +46-769-555-806
+* **Email:** dejene.boru@gmail.com, oljideje@kau.se
 
 Education
 -----------------------------------------------------------------------------------------------
