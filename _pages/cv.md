@@ -18,9 +18,9 @@ Personal Data
 
 Education
 ===========
-* B.Sc in Electrical and Computer Engineering, Addis Ababa University, 2008
-* M.Sc in Telecommunications Engineering, University of Trento, Italy, 2013
-* Ph.D. in Computer Science, Karlstad University, Sweden 2020 
+* Ph.D. in Computer Science, Karlstad University (Sweden), 2020 
+* M.Sc. in Telecommunications Engineering, University of Trento (Italy), 2013
+* B.Sc. in Electrical and Computer Engineering, Addis Ababa University (Ethiopia), 2008
 
 Work experience
 ======
