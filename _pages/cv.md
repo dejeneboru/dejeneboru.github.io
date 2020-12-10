@@ -14,17 +14,22 @@ Personal Data
 =============
 * **Name:** Dejene Boru Oljira
 * **Address:** Karlstad, Sweden
-* **Email:** dejene.boru@gmail.com, oljideje@kau.se
+* **Email:** dejene.boru@gmail.com
 
 Education
 ===========
 * B.Sc in Electrical and Computer Engineering, Addis Ababa University, 2008
 * M.Sc in Telecommunications Engineering, University of Trento, Italy, 2013
-* Ph.D. in Computer Science, Karlstad University, Sweden 2020 (expected)
+* Ph.D. in Computer Science, Karlstad University, Sweden 2020 
 
 Work experience
 ======
-* **March 2015 - Current: Ph.D. Researcher**
+
+* **October 2020 - Current: System Developer**
+  * TietoEVRY, Karlstad, Sweden
+  * Duties: Involved Cloud RAN product development project. Systemize, develop, implement, and test Microservices for spectrum sharing and carrier aggregation. 
+
+* **March 2015 - April 2020: Ph.D. Researcher**
   * Karlstad University, Karlstad, Sweden
   * Duties: Carry out scientific research in the area of computer networking. Design, develop, analyze, and implement low-latency solutions for the next-generation network (5G). Write scientific articles and publish them in reputable international conferences. Write project reports, attend conferences, present and demonstrate research results, and serve as a teaching assistant for courses offered in the Computer Science department.  
 
@@ -51,9 +56,9 @@ consumption of cloud computing data center IT infrastructure
 
 Skills
 ======
-* **Programming Languages:** C/C++, Python, Java, Matlab, Linux Shell Scripting, Linux Kernel Programming 
+* **Programming Languages:** C/C++, Python, Golang, Java, Matlab, Linux Shell Scripting, Linux Kernel Programming 
 * **Operating Systems:** Linux, Windows, Mac OS
-* **Technology:** 2G/3G/4G/5G, TCP/IP, Cloud Computing, Virtualization, Internet 
+* **Technology:** 2G/3G/4G/5G, TCP/IP, Cloud Computing, Virtualization, Internet, Kubernetes, Containers 
 * **Networking Tools:** Ns2, Ns3, Mininet, OpenFlow, Floodlight, OMNeT++, Core Emulator, CCNA
 * **Languages:** Afan Oromo (Native), Amharic (Excellent), English(Excellent), Swedish (Intermediate), Italian(Intermediate)
 
