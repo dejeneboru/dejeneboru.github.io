@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in Computer Science at Karlstad University, Sweden. My Ph.D. research focuses on improving quality of service (QoS) in Computer Networks. Particularly, I am working on the design of latency-aware multipath transport protocols for next generation networks (5G). My research interests are in the areas of Networking, Transport Protocols, Virtualization, Cloud Computing, NFV, and Network optimization.
-
+I am a System Developer at TietoEVRY. I completed my Ph.D. in Computer Science from Karlstad University, Sweden. The focus of my Ph.D. 
+research was to develop solutions to support low-latency communication services. I conducted a regress analysis on the delay overhead of virtualizing telecom network applications. Moreover, I proposed a latency-aware multipath transport protocol for Multipath TCP that mitigates queuing delay and improves multipath network capacity utilization. My research interests are in the areas of Networking, Transport Protocols, Virtualization, Cloud Computing, NFV, Network Optimization. 
 
