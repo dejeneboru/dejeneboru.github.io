@@ -24,7 +24,6 @@ Education
 
 Work experience
 ======
-
 * **October 2020 - Current: System Developer, TietoEVRY, Karlstad, Sweden**
   * Duties: Involved Cloud RAN product development project. Systemize, develop, implement, and test Microservices for spectrum sharing and carrier aggregation. 
 
