@@ -27,14 +27,14 @@ Work experience
 * **October 2020 - Current: System Developer, TietoEVRY, Karlstad, Sweden**
   * Duties: Involved Cloud RAN product development project. Systemize, develop, implement, and test Microservices for spectrum sharing and carrier aggregation. 
 
-* **March 2015 - April 2020: Ph.D. Researcher, Karlstad University, Karlstad, Sweden **
+* **March 2015 - April 2020: Ph.D. Researcher, Karlstad University, Karlstad, Sweden**
   * Duties: Carry out scientific research in the area of computer networking. Design, develop, analyze, and implement low-latency solutions for the next-generation network (5G). Write scientific articles and publish them in reputable international conferences. Write project reports, attend conferences, present and demonstrate research results, and serve as a teaching assistant for courses offered in the Computer Science department.  
 
-* **Jan 2013-Feb 2015: Junior Researcher, CREATE-NET Research Center, Trento, Italy **
+* **Jan 2013-Feb 2015: Junior Researcher, CREATE-NET Research Center, Trento, Italy**
   * Duties included: Research in wireless indoor localization solution, Energy-efficient data replication in cloud data centers, Wireless Networks energy metering using Software Defined Networking.
    
  
-* **Nov 2008-Aug 2010: Assistant Graduate II, Dire Dawa University, Dire Dawa, Ethiopia **
+* **Nov 2008-Aug 2010: Assistant Graduate II, Dire Dawa University, Dire Dawa, Ethiopia**
   * Duties: Teaching (Computer Networking, C/C++ Programming, Introduction to Electronics) and mentor students.
 
 Skills
