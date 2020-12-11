@@ -25,11 +25,13 @@ Education
 Work experience
 ======
 * **Oct 2020 - Current: System Developer, TietoEVRY, Sweden**
-  * Involved Cloud RAN product development project. Systemize, develop, implement, and test Microservices for spectrum sharing and carrier aggregation. 
+  * Involved Cloud RAN product development project. 
+  * Conduct system study, develop, implement, and test Microservices for spectrum sharing and carrier aggregation. 
 * **Mar 2015 - Apr 2020: Ph.D. Researcher, Karlstad University, Sweden**
-  * Carried out scientific research in the area of computer networking. Design, develop, analyze, and implement low-latency solutions for the next-generation network (5G). Write scientific articles and publish them in reputable international conferences. Write project reports, attend conferences, present and demonstrate research results, and serve as a teaching assistant for courses offered in the Computer Science department.  
+  * Analyzed and proposed solutions in networking to support services and use cases that low-latency communication. 
+  * Contributed to scientific research in computer networks, virtualization, cloud computing, 5G. 
 * **Jan 2013-Feb 2015: Junior Researcher, CREATE-NET Research Center, Italy**
-  * Research in wireless indoor localization solution, Energy-efficient data replication in cloud data centers, Wireless Networks energy metering using Software Defined Networking.
+  * Contributed to research projects in wireless indoor localization solution, Energy-efficient data replication in cloud data centers, Wireless Networks energy metering using Software Defined Networking.
 * **Nov 2008-Aug 2010: Assistant Graduate II, Dire Dawa University, Ethiopia**
   * Teaching (Computer Networking, C/C++ Programming, Introduction to Electronics) and mentor students.
 
